@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.weather{
+    width: 400px;
+    margin: 70px auto;
+}
+
+.form input {
+    width: 23%;
+    margin-right: 40px;
+
+}
+
+
+.form button {
+    width: 16%;
+    margin-right: 50px;
+
+}
+
+td{
+border: 1px solid black;
+padding: 12px;
+
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
